@@ -1,4 +1,5 @@
-![Credit Card Image](App.png)
+
+<img src="App.png" width="600">
 
 # Android App Market Analysis 📱🚀
 
